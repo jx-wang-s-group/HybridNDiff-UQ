@@ -1,0 +1,5 @@
+*/output*/*
+*.png
+*.hdf5
+*.pyc
+out*
